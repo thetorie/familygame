@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/familygame/static/css/main.d70c6c00.css",
-    "main.js": "/familygame/static/js/main.71579700.js",
+    "main.js": "/familygame/static/js/main.d432536a.js",
     "static/js/787.b3f9d252.chunk.js": "/familygame/static/js/787.b3f9d252.chunk.js",
     "index.html": "/familygame/index.html",
     "main.d70c6c00.css.map": "/familygame/static/css/main.d70c6c00.css.map",
-    "main.71579700.js.map": "/familygame/static/js/main.71579700.js.map",
+    "main.d432536a.js.map": "/familygame/static/js/main.d432536a.js.map",
     "787.b3f9d252.chunk.js.map": "/familygame/static/js/787.b3f9d252.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d70c6c00.css",
-    "static/js/main.71579700.js"
+    "static/js/main.d432536a.js"
   ]
 }
